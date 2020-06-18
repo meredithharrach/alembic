@@ -1,11 +1,11 @@
 ---
-title: Description of an Alembic
+title: Poem? test test
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+- poetry
+feature_image: "https://t3.ftcdn.net/jpg/02/75/11/62/240_F_275116225_S2XrhT1A0cNUIFtUHouAfX4MMg0cKnfd.jpg"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+do not ask if this works or doesn't, just find out
 
 <!-- more -->
 
