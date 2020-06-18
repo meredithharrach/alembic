@@ -3,7 +3,7 @@ title: Welcome
 feature_text: |
   ## Meredith Harrach
   
-feature_image: "https://www.instagram.com/p/B3N8zfFg99z/?utm_source=ig_embed&amp;utm_campaign=loading"
+feature_image: "<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D3007786289243063%26set%3Da.312325122122540%26type%3D3&width=500" width="500" height="543" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
 ---
