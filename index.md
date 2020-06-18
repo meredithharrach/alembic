@@ -10,4 +10,4 @@ layout: page
 
 This is a site where I will be updating with some blog posts about what's happening in my life, some poetry I've written, and a bit about the music I'm working on. Glad you've made it!
 
-## Glad You Made It
+### Glad You Made It
